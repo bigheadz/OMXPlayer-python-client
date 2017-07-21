@@ -1,5 +1,6 @@
 pyomxplayer
 ===========
+Follow from `pyomxplayer <https://github.com/jbaiter/pyomxplayer>`_ , fix bug #3.
 Python wrapper module around `OMXPlayer <https://github.com/huceke/omxplayer>`_
 for the Raspberry Pi.
 
@@ -15,7 +16,7 @@ Installation:
 -------------
 ::
 
-    git clone https://github.com/jbaiter/pyomxplayer.git
+    git clone https://github.com/bigheadz/OMXPlayer-python-client.git
     python pyomxplayer/setup.py install
 
 Example:
